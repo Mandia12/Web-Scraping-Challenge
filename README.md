@@ -9,14 +9,14 @@ Part 2: Mars Weather
 Similar to the first part, I accessed the website and found data from a table. From the data extracted I answered these questions:
 
 How many months on Mars?
-12 months
+  12 months
 How many Martian days of data are there?
-1,867 days
+  1,867 days
 What are the coldest and warmest months on Mars?
-Coldest: Month 3
-Warmest: Month 8
+  Coldest: Month 3
+  Warmest: Month 8
 Which months have the hightest and lowest atmospheric pressure on Mars?
-Hightest: Month 9
-Lowest: Month 6
+  Hightest: Month 9
+  Lowest: Month 6
 About how many Earth days exist in a Martian year?
-About 675 Earth days.
+  About 675 Earth days.
