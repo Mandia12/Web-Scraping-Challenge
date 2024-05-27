@@ -1,6 +1,6 @@
 # Web-Scraping-Challenge
 
-In this challenge, multiple tools including, BeautifulSoup, Selenium, and Splinter were used to extract data from websites to derive valualbe information.
+In this challenge, multiple tools including, BeautifulSoup, Selenium, and Splinter were used to extract data from websites to derive valuable information.
 
 Part 1: Mars News
 
